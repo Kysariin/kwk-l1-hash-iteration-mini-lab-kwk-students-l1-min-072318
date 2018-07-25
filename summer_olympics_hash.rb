@@ -18,7 +18,7 @@ def iterate_through_hash
   end
 end
 
-def iterate_through_keys
-  summer_olympics.each_key {|key| puts key}
-end
-puts summer_olympics
+# def iterate_through_keys
+#   summer_olympics.each_key {|key| puts key}
+# end
+# puts summer_olympics
