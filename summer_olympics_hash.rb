@@ -7,7 +7,7 @@ def create_olympics_hash
     :London => 2012
   }
 end
-create_olympics_hash
+puts create_olympics_hash
 
 def add_a_key_value_pair
   summer_olympics[:Atlanta => 1996]
