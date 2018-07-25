@@ -21,7 +21,7 @@ add_a_key_value_pair
 #     puts "The #{place} Olympics took place in #{year}."
 #   end
 # end
-iterate_through_hash
+# iterate_through_hash
 
 # def iterate_through_keys
 #   summer_olympics.each_key {|key| puts key}
