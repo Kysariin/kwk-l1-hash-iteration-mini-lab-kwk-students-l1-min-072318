@@ -21,7 +21,7 @@ def iterate_through_hash
     puts "The #{place} Olympics took place in #{year}."
   end
 end
-iterate_through_hash
+puts iterate_through_hash
 
 # def iterate_through_keys
 #   summer_olympics.each_key {|key| puts key}
