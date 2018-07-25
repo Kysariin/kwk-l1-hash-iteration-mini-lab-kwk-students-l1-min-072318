@@ -18,7 +18,7 @@ def add_a_key_value_pair
   }
   summer_olympics[:Atlanta => 1996]
 end
-puts add_a_key_value_pair
+add_a_key_value_pair
 
 def iterate_through_hash
   summer_olympics.each do |place, year|
