@@ -13,6 +13,7 @@ def add_a_key_value_pair
   new_summer_olympics = {}
   summer_olympics[:Atlanta] => 1996
   new_summer_olympics << summer_olympics
+end 
 end
 add_a_key_value_pair
 
