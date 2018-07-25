@@ -11,7 +11,7 @@ puts create_olympics_hash
 
 def add_a_key_value_pair
   new_summer_olympics = {}
-  summer_olympics[:Atlanta => 1996]
+  summer_olympics[:Atlanta] => 1996
   new_summer_olympics << summer_olympics
 end
 add_a_key_value_pair
