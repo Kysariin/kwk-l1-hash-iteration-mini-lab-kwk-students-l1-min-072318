@@ -10,6 +10,7 @@ end
 puts create_olympics_hash
 
 def add_a_key_value_pair
+  new_summer_olympics = {}
   summer_olympics = {
     :Sydney => 2000,
     :Athens => 2004,
